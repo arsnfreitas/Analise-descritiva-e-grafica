@@ -2,4 +2,4 @@
 
 - Matplotlib
 - Seaborn
-- Análise descritiva gráfica - partes I, II, III
+- Análise descritiva gráfica - partes I, II (univariada), III (multivariada)
