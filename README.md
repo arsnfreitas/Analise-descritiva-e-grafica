@@ -4,4 +4,4 @@
 - Seaborn
 - Análise descritiva gráfica - partes I, II (univariada), III (multivariada)
 - Correlações - parte IV
-- Correlacionando variáveis qualitativas
+- Correlacionando variáveis qualitativas - parte V
